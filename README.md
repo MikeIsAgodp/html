@@ -1,4 +1,6 @@
+#Block and Inline
 
+```HTML
 <html>
 <head>
 	<title></title>
@@ -29,3 +31,4 @@
 <span>Esto es un SPAN </span>
 </body>
 </html>
+```
